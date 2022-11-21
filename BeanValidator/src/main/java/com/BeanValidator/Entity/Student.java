@@ -1,6 +1,6 @@
 package com.BeanValidator.Entity;
 
-
+/*@Author Arvind*/
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
